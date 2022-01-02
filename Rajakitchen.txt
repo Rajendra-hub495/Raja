@@ -2,3 +2,7 @@ Welcome to Bio
 name:Raja
 qualification:MCA
 Place:Ongle
+DOB:15/9/1990
+  
+  
+  Thank you
